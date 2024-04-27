@@ -10,5 +10,4 @@ import lombok.*;
 public class HelloWorldDto {
     @JsonProperty("numbers")
     private int[] numbers;
-
 }
